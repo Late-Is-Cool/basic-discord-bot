@@ -28,4 +28,4 @@ client.on("ready", () => {
     .registerCommandsIn(path.join(__dirname, "commands"))
 })
 
-client.login(config.token)
+client.login(config.token) // makes the bot online
