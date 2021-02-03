@@ -16,7 +16,13 @@ module.exports = class ExampleCommand extends Command {
             guildOnly: true, // optional, can be used only in the servers instead of DMs
             clientPermissions: [""], // optional, checks if the bot has the right permission to use this command 
 	        userPermissions: [""], // optional, checks if the user has the right permission to use this command
-            ownerOnly: true // optional, the command can only be used by the bot owner
+            ownerOnly: true, // optional, the command can only be used by the bot owner
+            args: {
+                key: "thing", // anything
+                prompt: "please enter args", // if the user doesnt input any arguments
+                type: "string", // type
+                default: "thing", // sets the default if theres no arguments
+            }, // optional
         })
     }
 
