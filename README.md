@@ -67,3 +67,5 @@ MANAGE_ROLES
 MANAGE_WEBHOOKS
 MANAGE_EMOJIS
 ```
+
+theres other things to know but i can't think of any
