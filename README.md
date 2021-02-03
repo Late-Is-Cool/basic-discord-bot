@@ -15,8 +15,8 @@ Go to the config.json file
 }
 ```
 
-Next you install discord.js (npm i discord.js) (https://discordjs.guide/commando/)
+Next you install discord.js (npm i discord.js, guide: https://discordjs.guide/)
 
-npm i discordjs/Commando (command handler, install git in order to use this)
+npm i discordjs/Commando (command handler, install git in order to use this, guide: https://discordjs.guide/commando/)
 
 I can't think of anything else here i guess
