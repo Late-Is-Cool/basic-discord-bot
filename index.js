@@ -23,7 +23,7 @@ client.on("ready", () => {
      * registerDefaultCommands({
      *      help: false,
      * })
-     * disable commands
+     * disable commands like unknown-command
      */
     .registerCommandsIn(path.join(__dirname, "commands"))
 })
