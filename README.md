@@ -15,10 +15,14 @@ Go to the config.json file
 }
 ```
 
+# npm things
+
 Next you install discord.js (npm i discord.js, guide: https://discordjs.guide/)
 
 npm i discordjs/Commando (command handler, install git in order to use this, guide: https://discordjs.guide/commando/)
 
 npm i mongoose (if you are using mongoDB)
+
+# other
 
 I can't think of anything else here i guess
