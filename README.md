@@ -9,9 +9,9 @@ Go to the config.json file
 
 ```json
 {
-    "token": "TOKEN_HERE", // https://discordapi.com/
-    "mongo_url": "(OPTIONAL)", // https://mongodb.com/
-    "prefix": "PREFIX" // prefixs like: /, $, or anything of your liking
+    "token": "TOKEN_HERE",
+    "mongo_url": "(OPTIONAL)",
+    "prefix": "PREFIX"
 }
 ```
 
