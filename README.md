@@ -16,9 +16,9 @@ Go to the config.json file
 
 ```json
 {
-    "token": "TOKEN_HERE"
-    "mongo_url": "(OPTIONAL)"
-    "prefix": "PREFIX"
+    "token": "TOKEN_HERE",
+    "mongo_url": "(OPTIONAL)",
+    "prefix": "PREFIX",
 }
 ```
 
@@ -34,6 +34,7 @@ npm i mongoose (if you are using mongoDB)
 
 discord permissions are:
 
+```
 CREATE_INSTANT_INVITE
 KICK_MEMBERS
 BAN_MEMBERS
@@ -65,3 +66,4 @@ MANAGE_NICKNAMES
 MANAGE_ROLES
 MANAGE_WEBHOOKS
 MANAGE_EMOJIS
+```
