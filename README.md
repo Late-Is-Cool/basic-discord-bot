@@ -1,9 +1,16 @@
 # basic-discord-bot
 
+basic discord bot
+
+# some warnings
+
 Install NodeJS before you do any of this
+
 Also learn some Javascript (https://discordjs.guide/#before-you-begin)
 
 𝗣𝗟𝗘𝗔𝗦𝗘 𝗡𝗢𝗧𝗘 𝗧𝗛𝗔𝗧 𝗧𝗛𝗜𝗦 𝗜𝗦 𝘃𝟭𝟮 𝗔𝗡𝗗 𝗡𝗢𝗧 𝘃𝟭𝟭 𝗖𝗔𝗨𝗦𝗘 𝗜𝗧 𝗜𝗦 𝗢𝗨𝗧𝗗𝗔𝗧𝗘𝗗
+
+# config
 
 Go to the config.json file
 
