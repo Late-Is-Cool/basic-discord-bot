@@ -5,7 +5,7 @@ const path = require("path")
 
 const client = new CommandoClient({
     commandPrefix: config.prefix,
-    owner: "id", // can be an array like ["", ""]
+    owner: "id", // can be an array like ["id1", "id2"]
     invite: "discord invite" // optional, sends the invite whenever theres a problem
 })
 
