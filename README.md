@@ -4,6 +4,10 @@ basic discord bot
 
 # some warnings
 
+Install Github Desktop (or just copy the code)
+
+If you don't have a code editor then I recommend Visual Studio Code (https://code.visualstudio.com/)
+
 Install NodeJS before you do any of this
 
 Also learn some Javascript (https://discordjs.guide/#before-you-begin)
@@ -32,11 +36,11 @@ npm i discordjs/Commando (command handler, install git in order to use this, gui
 
 npm i mongoose (if you are using mongoDB)
 
-mongoDB tutorial: https://youtu.be/w2PGpAtmZwE
+MongoDB tutorial: https://youtu.be/w2PGpAtmZwE
 
 # other
 
-discord permissions are:
+Discord permissions are:
 
 ```
 CREATE_INSTANT_INVITE
