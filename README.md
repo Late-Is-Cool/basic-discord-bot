@@ -28,7 +28,11 @@ Next you install discord.js (npm i discord.js, guide: https://discordjs.guide/)
 
 npm i discordjs/Commando (command handler, install git in order to use this, guide: https://discordjs.guide/commando/)
 
+# mongoDB
+
 npm i mongoose (if you are using mongoDB)
+
+mongoDB tutorial: https://youtu.be/w2PGpAtmZwE
 
 # other
 
@@ -67,5 +71,3 @@ MANAGE_ROLES
 MANAGE_WEBHOOKS
 MANAGE_EMOJIS
 ```
-
-theres other things to know but i can't think of any
